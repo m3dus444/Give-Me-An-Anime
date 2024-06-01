@@ -1,30 +1,27 @@
 # Give Me An Anime !
 repo for the Apple Shortcut anime suggestor based on non offcial myanimelist.net API.
-📣 English version is coming up stay tuned. 📣
-🇺🇸
-🇺🇸
 
-🇫🇷
-Ce shortcut permets de vous proposer des animes à regarder en se basant sur vos goûts et préférences !
-iOS Version : >= 16.5 (  📣 une version pour iOS < 16.5 arrive prochainement )
+📣 No other language is supported (thanks Apple...) 📣
 
-Voici les fonctionnalités clés du shortcut : 
+This shortcut allows you to suggest anime to watch based on your tastes and preferences!
+iOS Version : >= 16.5 ( a version for iOS < 16.5 is coming soon )
 
-• Pas de cléf d'API requise ! ✅
+Here are the shortcut's key features: 
 
-• Vous pouvez choisir les genres, types, l'année minimale requise, le nombre d'épisodes minimum etc. 🎯
+- No API key required! ✅
 
-• L'anime vous est proposé via une vignette comprenant les information suivantes : titre, preview, synopsis, status, episodes, et son score ! (voir screenshot : ) 🖼️
+- You can choose genres, types, minimum year required, minimum number of episodes etc. 🎯
 
-• Un filtre de floutage anti NSFW est disponible (cliquer sur l’image pour faire disparaître le filtre)
+- The anime is presented to you via a thumbnail including the following information: title, preview, synopsis, status, episodes, and its score! (https://imgur.com/a/lWSGp3r) 🖼️
 
-• Il dispose même d'une watchlist personnalisable intégrée à vos Apple Notes ! 📒
+- An anti-NSFW blurring filter is available (click on the image to make the filter disappear).
 
-⚠️Il est basé sur une API non officielle de myanimelist.com qui ne contient aucun filtre (d’où l’utilisation libre de service sans clé d’API). C’est-à-dire que les filtres sont appliqués après avoir obtenu un anime ALEATOIREMENT, en d’autres termes, plus vos goûts sont affinés, plus l’anime peut prendre du temps à arriver puisque beaucoup de requêtes devront être éffecutées (ça peut aller jusqu’à plusieurs minutes).
+- It even has a customizable watchlist integrated into your Apple Notes! (https://imgur.com/a/DKU0JRW) 📒
 
- ⚙️Exemple d’utilisation qui marche bien : Au début j’ai fais ce shortcut dans le but de l’éxecuter via une automatisation ; par exemple, quand mon alarme de réveil est snooze le shortcut est lancé (et ce, même si l’iPhone est vérouillé). Pendant qu’on gratte quelques minutes (voir quart d’’heure pour certains) de someil, le shortcut a le temps de trouver un anime en faisant les requêtes, et quand vous êtes révéillé et que vous dévérouillez votre iPhone vous avez un cool flyer avec un anime à vos goûts qui vous attend. C’est pas une belle journée qui s’annonce ça ? 😎
+- Un updater is integrated in the shortcut, allowing future features & languages supports ⬇️
 
+⚠️Il is based on an unofficial API from myanimelist.com that contains no filters (hence the free use of service without API key). In other words, the more refined your tastes, the longer it may take for the anime to arrive, since many requests have to be made (it can take up to several minutes).
 
-🇫🇷
+ ⚙️Exemple which works well: At first, I made this shortcut with the aim of executing it via automation; for example, when my alarm clock snoozes, the shortcut is launched (even if the iPhone is locked). While you're scratching out a few minutes (or even a quarter of an hour for some) of sleep time, the shortcut has time to find an anime by doing the queries, and when you're awake and you unlock your iPhone you've got a cool flyer with an anime to your taste waiting for you. isn't it a beautiful day ahead? 😎
 
 
