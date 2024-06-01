@@ -1,7 +1,7 @@
 # Give Me An Anime !
 repo for the Apple Shortcut anime suggestor based on non offcial myanimelist.net API.
 
-[!test](https://i.imgur.com/fzyDaoa.png)
+[![test](https://i.imgur.com/fzyDaoa.png)]
 
 📣 No other language is supported (thanks Apple...) 📣
 
